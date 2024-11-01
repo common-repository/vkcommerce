@@ -1,0 +1,58 @@
+.vkcommerce-success,
+.vkcommerce-success a {
+    color: #7ad03a;
+}
+
+.vkcommerce-warning,
+.vkcommerce-warning a {
+    color: orange;
+}
+
+.vkcommerce-red,
+.vkcommerce-red a {
+    color: #b32d2e;
+}
+
+ul.vkcommerce-list {
+    list-style: disc;
+    margin-left: 2em;
+}
+
+a.vkcommerce-action-lnk.disabled {
+    color: #dcdcde;
+}
+
+.vkcommerce-meta-box .meta-box-body {
+    padding: 10px;
+}
+
+.vkcommerce-meta-box .meta-box-actions {
+    padding: 10px;
+    clear: both;
+    border-top: 1px solid #dcdcde;
+    background: #f6f7f7;
+}
+
+#vkcommerce-publish-meta-box .inside {
+    margin: 0;
+    padding: 0;
+}
+
+#vkcommerce-publish-meta-box .meta-box-actions #vkcommerce-delete-action {
+    float: left;
+    line-height: 2.3;
+}
+
+#vkcommerce-publish-meta-box .meta-box-actions #vkcommerce-publish-action {
+    float: right;
+    text-align: right;
+}
+#vkcommerce-publish-meta-box .meta-box-actions #vkcommerce-publish-action .spinner {
+    float: none;
+    margin-top: 7px;
+}
+
+#vkontakte_product_data.panel .form-field .general-settings {
+    padding: 1px 0 0 10px;
+    display: inline-block;
+}
